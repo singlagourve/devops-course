@@ -931,3 +931,34 @@
   930  git commit -m "3.txt changed"
   931  git push origin master
   932  history > allcommands
+  933  ls
+  934  cd ..
+  935  cd share
+  936  ls
+  937  history > allcommands.txt 
+  938  man ssh-keygen 
+  939  git status
+  940  pwd
+  941  cd ../devops
+  942  pwd
+  943  ls
+  944  ls -lrt
+  945  ls -a -lrt
+  946  cd .git
+  947  ls -a
+  948  ls -a -lrt
+  949  cat description 
+  950  cd branches/
+  951  ls
+  952  ls -a
+  953  cd ..
+  954  pwd
+  955  git status
+  956  git add allcommands 
+  957  git status
+  958  git push origin master
+  959  git commit -m "adding command history file"
+  960  git status
+  961  git commit -m "adding command history file again"
+  962  cat history > allcommands 
+  963  history > allcommands
