@@ -1,0 +1,933 @@
+    1  man lsmod
+    2  lsmod
+    3  lsmod | grep loop
+    4  ls
+    5  cat demofunc.sh
+    6  bat demofunc.sh
+    7  which bat
+    8  which cat
+    9  yum install bat -y
+   10  sudo yum install bat -y
+   11  which bat
+   12  man mount
+   13  clear
+   14  pwd
+   15  ls
+   16  mkdir share
+   17  cat share
+   18  ls -lrt
+   19  cd share
+   20  pwd
+   21  touch f1.txt
+   22  ls
+   23  which mount
+   24  which cd
+   25  file cd
+   26  file share
+   27  type share
+   28  clear
+   29  man mount
+   30  cd ~
+   31  pwd
+   32  exit
+   33  man mount
+   34  pwd
+   35  cd share
+   36  ls
+   37  touch f2.txt
+   38  ls
+   39  cd ..
+   40  pwd
+   41  ls
+   42  cd share
+   43  ls
+   44  rename addition.sh.txt add.sh
+   45  mv addition.sh.txt add.sh
+   46  ls
+   47  sh add.sh
+   48  nano add
+   49  cat add.sh 
+   50  sh cat.sh
+   51  cat add.sh
+   52  sh add.sh
+   53  cat add.sh
+   54  bash add.sh
+   55  cat add.sh
+   56  nano add.sh
+   57  sh add.sh
+   58  nano add.sh
+   59  sh add.sh
+   60  nano add.sh
+   61  sh add.sh
+   62  nano add.sh
+   63  sh add.sh
+   64  nano add.sh
+   65  sh add.sh
+   66  nano add.sh
+   67  sh add.sh
+   68  nano add.sh
+   69  sh add.sh
+   70  nano add.sh
+   71  sh add.sh
+   72  nano add.sh
+   73  sh add.sh
+   74  nano add.sh
+   75  sh add.sh
+   76  touch hahaha.txt
+   77  ls
+   78  ls -lrt
+   79  which bzip
+   80  which bzip2
+   81  sudo yum install unzip -y
+   82  which unzip
+   83  ls
+   84  unzip #!/bin/bash 
+   85   
+   86    
+   87   
+   88  echo -n "Enter the first number : " 
+   89  read num1 
+   90  unzip #!/bin/bash 
+   91   
+   92    
+   93   
+   94  echo -n "Enter the first number : " 
+   95  read num1 
+   96  unzip LECTURE-1-8211-GREP-COMMAND-06MAR2021132721.zip 
+   97  date
+   98  pwd
+   99  ls
+  100  sudo mount -t vboxsf share ~/share
+  101  ls
+  102  cd share
+  103  ls
+  104  cat f2.txt.txt 
+  105  rm f2.txt.txt 
+  106  ls
+  107  pwd
+  108  nano sharefile.txt
+  109  cat sharefile.txt 
+  110  ls
+  111  cat 'sample print.txt' 
+  112  sh 'sam
+  113  ls
+  114  sh 'sample print.txt'
+  115  ls -lrt
+  116  ls
+  117  sh addition.txt
+  118  ls
+  119  cd share
+  120  ls
+  121  cd /etc
+  122  ls
+  123  cd fstabs
+  124  cd /pwd
+  125  cd fstab
+  126  sudo cd fstab
+  127  nano fstab
+  128  cat fstab
+  129  sudo nano fstab
+  130  cat fstab
+  131  sudo nano /etc/modules
+  132  cat /etc/modules
+  133  reboot
+  134  ls
+  135  cd share
+  136  ls
+  137  echo "enter the numbers to be added "
+  138  P
+  139  echo "enter the numbers to be added "
+  140  Sample Text Files Details. The text file is a basic computer file that has text without any formatting like bold, italic, and other formats. This file has stored with .txt ...
+  141  shutdown
+  142  shutdown -c
+  143  date
+  144  shutdown 13:21
+  145  shutdown -c
+  146  shutdown 13:22 "" shutdown will be done in 2 mins for u$ shutdown -r now
+  147  shutdown -c
+  148  shutdown 13:22 "shutdown will be done in 2 mins, $ shutdown -r now
+  149  $ shutdown -r now
+  150  lease save changes
+  151  shutdonw -c
+  152  shutdown -c
+  153  date
+  154  shutdown 13:23 "$ shutdown -r now
+  155  leas
+  156  cd 
+  157  ls
+  158  shutdown -c
+  159  shutdown 13:24 "shutting down in 5 minutes $ shutdown -r now
+  160  le$ shutdown -r now
+  161  $ shutdown -r now
+  162  $ shutdown -r now
+  163  $ shutdown -r now
+  164  $ shutdown -r now
+  165  $ shutdown -r now
+  166  $ shutdown -r now
+  167  $ shutdown -r now
+  168  $ shutdown -r now
+  169  $ shutdown -r now
+  170  $ shutdown -r now
+  171  $ shutdown -r now
+  172  $ shutdown -r now
+  173  s$ shutdown -r now
+  174  date 
+  175  sudo shutdown -r 13:25 "machien is about to shut down "
+  176  date
+  177  ls
+  178  history
+  179  shutdown now
+  180  ls
+  181  cat sample.txt
+  182  nano sample.txt
+  183  cat sample.txt
+  184  grep '^$' sample.txt
+  185  grep -v '^$' sample.txt
+  186  sed 's/g' sample.txt
+  187  sed '/s/g/' sample.txt
+  188  sed 's/sur/gou/' sample.txt
+  189  cat sample.txt
+  190  man echo
+  191  man sed
+  192  cd share
+  193  ls
+  194  cat books.txt
+  195  clear
+  196  cat books.txt
+  197  sed -e '1d' books.txt 
+  198  sed -e '*d' books.txt 
+  199  sed -e '1d''2d' books.txt 
+  200  sed -e '1d' -e '2d' books.txt 
+  201  cat books.txt
+  202  echo -e
+  203  echo -e '1d\n2d\5d' >sedcom.txt
+  204  ls
+  205  sed -f sedcom.txt books.txt
+  206  cat sedcom.txt
+  207  nano sedcom.txt
+  208  echo -e '1d\n2d\n5d' >sedcom.txt
+  209  cat sedcom.txt 
+  210  sed -f sedcom.txt books.txt
+  211  sed -n '' books.txt
+  212  man sed
+  213  sed -e '' books.txt
+  214  sed -e '' -e '' books.txt
+  215  clear
+  216  sed -e '' -e 'p' books.txt
+  217  man sed
+  218  sed -e '' -e 'P' books.txt
+  219  sed -e '' -e 'p' books.txt
+  220  clear
+  221  man sed
+  222  cat books.txt
+  223  sed -n -p books.txt
+  224  sed -n 'p' books.txt
+  225  sed -n  books.txt
+  226  sed -n books.txt
+  227  sed -n '' books.txt
+  228  sed -n 'a' books.txt
+  229  sed -n 'p' books.txt
+  230  sed -e -n 'p' books.txt
+  231  sed -e '' -n 'p' books.txt
+  232  hitory
+  233  history
+  234  sed -e '' -e '' books.txt
+  235  sed -e '' -e 'p' books.txt
+  236  man sed
+  237  clear
+  238  cat books.txt
+  239  sed 's/,/!' books.txt
+  240  sed 's/,/g' books.txt
+  241  sed 's/The/A' books.txt
+  242  sed 's/'The'/'A'' books.txt
+  243  sed 's/,/!' books.txt
+  244  sed 's/Ring/RING' books.txt
+  245  ls
+  246  cd ..
+  247  sed 's/Ring/RING' share/books.txt
+  248  sed "s/Ring/RING" share/books.txt
+  249  sed -e "s/Ring/RING" share/books.txt
+  250  sed -e 's/Ring/RING' share/books.txt
+  251  pwd
+  252  cd share
+  253  pwd
+  254  ls
+  255  cat books.txt 
+  256  sed 's/Ring/ring' books.txt 
+  257  sed 's/Ring/'ring'' books.txt 
+  258  sed 's/'Ring'/'ring'' books.txt 
+  259  sed 's/Ring/RING/' books.txt
+  260  cat books.txt
+  261  sed 's/2/7/' books.txt
+  262  sed 's/2$/7/' books.txt
+  263  sed 's/2/7/' books.txt
+  264  sed 's/*2*/*7*/' books.txt
+  265  sed 's/*2*/*7*/g' books.txt
+  266  clear
+  267  cat books.txt
+  268  sed 's/*2*/*7*/g' books.txt
+  269  sed 's/'2'/'7'/g' books.txt
+  270  sed 's/'2'/'7'/g' books.txt > books1.txt
+  271  cat books1.txt
+  272  diff books.txt books1.txt
+  273  singla
+  274  pwd
+  275  clear
+  276  cat books.txt
+  277  sed 's/The/A/g/' books.txt
+  278  sed 's/The/A/g' books.txt
+  279  sed 2,4 's/The/A/g' books.txt
+  280  sed '2,4 s/The/A/g' books.txt
+  281  cat books.txt
+  282  clear
+  283  cat books.txt
+  284  sed '2,4 s/The/A/g' books.txt
+  285  sed '2,4 s/The/A/' books.txt
+  286  sed '2,5 s/The/A/' books.txt
+  287  pwd
+  288  mkdir geek.txt
+  289  rmdir geek.txt
+  290  nano geeks.txt
+  291  cat geeks.txt
+  292  singla
+  293  clear
+  294  ls
+  295  cat geeks.txt 
+  296  sed 's/unix/linux/' geeks.txt
+  297  sed 's/unix/linux/2' geeks.txt
+  298  sed 's/unix/linux/g' geeks.txt
+  299  sed 's/unix/linux/3g' geeks.txt
+  300  clear
+  301  ls
+  302  cat geeks.txt 
+  303  clear
+  304  cat geeks.txt 
+  305  sed '3 s/unix/linux' geeks.txt
+  306  sed '3 s/unix/linux/' geeks.txt
+  307  sed '2,$ s/unix/linux/' geeks.txt
+  308  sed '1,$ s/unix/linux/' geeks.txt
+  309  sed -n 's/unix/linux/' geeks.txt 
+  310  sed -n 's/unix/linux/g' geeks.txt 
+  311  sed -n 's/unix/linux/p' geeks.txt 
+  312  sed  's/unix/linux/p' geeks.txt 
+  313  sed -n 's/unix/linux/p' geeks.txt 
+  314  sed -e '1d' geeks.txt 
+  315  cat geeks.txt 
+  316  clear
+  317  cat geeks.txt 
+  318  sed -e '1d' geeks.txt
+  319  sed -e '2d' geeks.txt
+  320  sed '1d' geeks.txt 
+  321  sed '$d' geeks.txt 
+  322  sed '^d' geeks.txt 
+  323  sed '1d' geeks.txt 
+  324  sed '1,$d' geeks.txt 
+  325  sed '1,$-1d' geeks.txt 
+  326  sed '1,3d' geeks.txt 
+  327  cat geeks.txt 
+  328  clear
+  329  cat geeks.txt 
+  330  sed '/pattern/d' geeks.txt 
+  331  sed '/choose/d' geeks.txt 
+  332  cat geeks.txt 
+  333  sed 'G;G;G' geeks.txt 
+  334  sed 'G;G' geeks.txt 
+  335  sed '/^$/d;G' geeks.txt 
+  336  sed 's/^/     /' geeks.txt 
+  337  cat geeks.txt
+  338  clear
+  339  geeks.txt | sed 'N;s/\n/\t/'
+  340  ls
+  341  geeks.txt | sed 'N;s/\n/\t/'
+  342  sed = geeks.txt | sed 'N;s/\n/\t/'
+  343  sed = geeks.txt
+  344  sed = geeks.txt | sed 's/\n/\t/'
+  345  sed = geeks.txt | sed 'N;s/\n/\t/'
+  346  sed -i 's/unix/linux/g' geeks.txt 
+  347  cat geeks.txt 
+  348  celar
+  349  clear
+  350  pwd
+  351  nano employee.txt
+  352  cat employee.txt 
+  353  awk '{print}' employee.txt
+  354  awk '{print $0}' employee.txt
+  355  awk '{print $3}' employee.txt
+  356  awk '/manager/{print}' employee.txt
+  357  awk '/470/print{}' employee.txt
+  358  awk '/470/ print{}' employee.txt
+  359  awk '/470/ {print}' employee.txt
+  360  awk '/470/{print}' employee.txt
+  361  awk '{print $1,$2}' employee.txt 
+  362  awk '{print $1$2}' employee.txt 
+  363  awk '{print $1 $2}' employee.txt 
+  364  awk '{print $1'-' $2}' employee.txt 
+  365  awk '{print $1$2}' employee.txt 
+  366  awk '{print NR,$0}' employee.txt 
+  367  awk '{print NR,$2}' employee.txt 
+  368  awk '{print NF,$2}' employee.txt 
+  369  awk '{print NF,$5}' employee.txt 
+  370  awk '{print NF,$4}' employee.txt 
+  371  awk '{print NF,NR}' employee.txt 
+  372  cat employee.txt 
+  373  awk '{print}' employee.txt 
+  374  awk '{print NR,$0}' employee.txt 
+  375  awk '{print $NR}' employee.txt 
+  376  cat employee.txt | echo $NR 
+  377  cat employee.txt | echo $NF
+  378  awk '{print $NR}' employee.txt 
+  379  awk '{print $NF}' employee.txt 
+  380  CAT EMPLO
+  381  clear
+  382  cat employee.txt 
+  383  awk '{print $0}' employee.txt 
+  384  awk '{print $NR}' employee.txt 
+  385  awk '{print $NF}' employee.txt 
+  386  awk '{print NR,$0}' employee.txt 
+  387  awk '{print $NR,$0}' employee.txt 
+  388  awk '{print $NR$0}' employee.txt 
+  389  awk '{print $NR " - "$0}' employee.txt 
+  390  awk '{print NR " - "$0}' employee.txt 
+  391  clr
+  392  clear
+  393  awk '{print NR " - "$0}' employee.txt 
+  394  awk '{print NR" - "$0}' employee.txt 
+  395  awk '{print NR" --> "$0}' employee.txt 
+  396  nano employee.txt 
+  397  awk '{print NR" --> "$0}' employee.txt 
+  398  awk 'NF<0' employee.txt 
+  399  awk 'NF < 0' employee.txt 
+  400  awk 'NF -lt  0' employee.txt 
+  401  awk 'NF -lt  1' employee.txt 
+  402  awk '{print $NR}' employee.txt 
+  403  awk '{print NR}' employee.txt 
+  404  awk 'END {print NR}' employee.txt 
+  405  grep '^$' employee.txt 
+  406  grep '^$' employee.txt | awk '{print NR}'
+  407  awk 'length($0) > 50 ' employee.txt 
+  408  awk ' length($0) > 50 ' employee.txt 
+  409  awk ' length($0) > 30 ' employee.txt 
+  410  awk 'length($0) > 30' employee.txt 
+  411  awk 'length($0) > 10' employee.txt 
+  412  awk 'length($0) > 15' employee.txt 
+  413  awk 'length($0) > 20' employee.txt 
+  414  awk 'length($0) > 25' employee.txt 
+  415  awk '{ if($3=47000)print $0}' employee.txt 
+  416  awk '{ if($3=47000)print $0;}' employee.txt 
+  417  awk '{ if($3 == 47000 ) print $0;}' employee.txt 
+  418  awk '{ if($2 == 47000 ) print $0;}' employee.txt 
+  419  cat employee.txt 
+  420  nano employee.txt 
+  421  cat employee.txt 
+  422  awk '{ if($2 == 47000 ) print $0;}' employee.txt 
+  423  awk '{ if($4 == 47000 ) print $0;}' employee.txt 
+  424  awk 'BEGIN{ORS="\n\n"}{print $0}'
+  425  awk 'BEGIN{ORS="\n\n"}{print $0}' employee.txt 
+  426  awk 'BEGIN{ORS="\n"}{print $0}' employee.txt 
+  427  awk 'BEGIN{ORS="\n\t"}{print $0}' employee.txt 
+  428  awk 'BEGIN{ORS="\n\n"}{print $0}' employee.txt 
+  429  awk 'BEGIN{ORS="\n\n\n"}{print $0}' employee.txt 
+  430  cat employee.txt 
+  431  awk 'BEGIN{ORS="\n\n"}{print $0}' employee.txt 
+  432  awk '{ if($4 == 47000 ) print $0}' employee.txt 
+  433  awk '{ if($4 == 47000 ) print $0;}' employee.txt 
+  434  aws 'BEGIN {ORS="\n\n" OFS ="--"}{print $0}' employee.txt 
+  435  awk 'BEGIN {ORS="\n\n" OFS ="--"}{print $0}' employee.txt 
+  436  awk 'BEGIN {ORS="\n\n" OFS="--"}{print $0}' employee.txt 
+  437  awk 'BEGIN {ORS="\n\n",OFS="--"}{print $0}' employee.txt 
+  438  awk 'BEGIN {ORS="\n\n"OFS="--"}{print $0}' employee.txt 
+  439  awk 'BEGIN {ORS="\n\n"}{OFS="--"}{print $0}' employee.txt 
+  440  awk 'BEGIN {OFS="--"}{ORS="\n\n"}{print $0}' employee.txt 
+  441  awk 'BEGIN {OFS="--"}{print $0}' employee.txt 
+  442  awk 'BEGIN {oFS="--"}{print $0}' employee.txt 
+  443  awk 'BEGIN {OFS="--"}{print $0}' employee.txt 
+  444  awk 'BEGIN{OFS="--"}{print $0}' employee.txt 
+  445  awk 'BEGIN {OFS="--"}{ORS="\n\n"}{print $1,$2}' employee.txt 
+  446  awk 'BEGIN {OFS="-->"}{ORS="\n"}{print $1,$2}' employee.txt 
+  447  LS
+  448  ls
+  449  history 
+  450  history > allcommands.txt
+  451  ajay manager account 45000
+  452  sunil clerk account 25000
+  453  varun manager sales 50000
+  454  amit manager account 47000
+  455  tarun peon sales 15000
+  456  deepak clerk sales 23000
+  457  sunil peon sales 13000
+  458  satvik director purchase 80000
+  459  ajay manager account 45000
+  460  sunil clerk account 25000
+  461  varun manager sales 50000
+  462  amit manager account 47000
+  463  tarun peon sales 15000
+  464  deepak clerk sales 23000
+  465  sunil peon sales 13000
+  466  satvik director purchase 80000
+  467  awk 'BEGIN {OFS="--"}{ORS="\n"}{print $1,$2}' employee.txt
+  468  awk 'BEGIN {OFS="--"}{ORS="\n\n"}{print $1,$2}' employee.txt
+  469  awk 'BEGIN {OFS="--"}{ORS="\n\n\t"}{print $1,$2}' employee.txt
+  470  pwd
+  471  clear
+  472  ls
+  473  nano awkfile.txt
+  474  cat awkfile.txt 
+  475  awk -f awkfile.txt employee.txt 
+  476  nano awkfile.txt 
+  477  awk -f awkfile.txt employee.txt 
+  478  ls
+  479  awk -F: BEGIN{OFS="-->"} '{print $2,$4}' car.txt 
+  480  awk -F: BEGIN{OFS="--"} '{print $2,$4}' car.txt 
+  481  awk -F: 'BEGIN{OFS="-->"}{print $2,$4}' car.txt 
+  482  cat cat.txt
+  483  cat car.txt
+  484  awk -F, 'BEGIN{OFS="-->"}{print $2,$4}' car.txt 
+  485  top
+  486  htop
+  487  sudo yum install htop -y
+  488  sudo su
+  489  exit
+  490  pwd
+  491  localhost
+  492  $localhost
+  493  pwd
+  494  sudo yum install htop
+  495  htop
+  496  yum install htop
+  497  pgrep *terminal*
+  498  which pgrep
+  499  pgrep *termi
+  500  pgrep *termi*
+  501  pgrep firefox
+  502  pgrep gone
+  503  top
+  504  q
+  505  pgrep gnome
+  506  pgrep firefox
+  507  kill -9 27118
+  508  sudo yum install notify-tools
+  509  sudo yum install inotify-tools
+  510  ping google.com
+  511  sudo yum install inotify-tools
+  512  sudo apt-get install -y inotify-tools
+  513  sudo yum install -y inotify-tools
+  514  sudo su
+  515  pwd
+  516  cd share
+  517  ls
+  518  mkdir monitoreddirectory
+  519  ls
+  520  inotifywait -m monitoreddirectory/
+  521  inotifywait -m monitoreddirectory/ -o audit.txt
+  522  inotifywait -m monitoreddirectory/ -c audit.csv
+  523  inotifywait -m monitoreddirectory/ -e MODIFY
+  524  FREE
+  525  free
+  526  free -m
+  527  sudo yum update -y
+  528  sudo yum install htop
+  529  sudo yum install @mysql
+  530  sudo yum update -y
+  531  which mysql
+  532  systemctl mystatus mysqld
+  533  systemctl status mysqld
+  534  sudo systemctl enable --now mysqld
+  535  systemctl status mysqld
+  536  celar
+  537  clear
+  538  mysql
+  539  mysql -u root -p
+  540  mysql -u
+  541  mysql -p
+  542  cd ..
+  543  pwd
+  544  mysql -u root -p
+  545  sudo mysql_ins
+  546  sudo mysql_secure_installation
+  547  mysql -u root -p
+  548  firefox
+  549  exit
+  550  systemctl enable --now cockpit.socket
+  551  ssh intellipaat@192.0.0.1
+  552  ssh intellipaat@192.168.122.1
+  553  which ftp
+  554  ftp ftp.cesca.es
+  555  sudo ftp ftp.cesca.es
+  556  sudo yum install ftp -y
+  557  sudo ftp ftp.cesca.es
+  558  ls
+  559  cat 192.168.122.1 
+  560  sudo ftp ftp.cesca.es
+  561  sudo iptables --version
+  562  sudo iptables -l
+  563  sudo iptables -L
+  564  firewalld --version
+  565  sudo firewalld --version
+  566  sudo systemctl status firewalld
+  567  pwd
+  568  sudo systemctl status firewalld
+  569  sudo -l
+  570  sudo yum update
+  571  cd /etc/
+  572  ls
+  573  cd yum.repos.d/
+  574  ls
+  575  sudo vi grafana.repo
+  576  cat grafana.repo
+  577  cd ..
+  578  pwd
+  579  exit
+  580  mysql -u root -p -e 'show databases'
+  581  mysql -u root -p -D 'information_schema' -e 'show databases'
+  582  mysql -u root -p -D 'information_schema' -e 'show tables'
+  583  mysql -u root -p -e 'show databases'
+  584  mysql -u root -p -D 'sys' -e 'show tables'
+  585  mysql -u root -p -e 'show databases'
+  586  mysql -u root -p -e 'create database dev';
+  587  mysql -u root -p -e 'show databases'
+  588  use dev;
+  589  ls
+  590  nano createdb.txt
+  591  mv createdb.txt createdb.sh
+  592  ls
+  593  sh createdb.sh 
+  594  nano createdbtable.sh
+  595  sh createdtbale.sh
+  596  sh createdtable.sh
+  597  sh createdbtable.sh
+  598  cat createdbtable.sh
+  599  nano createdbtable.sh
+  600  sh createdbtable.sh
+  601  sh createdb.sh 
+  602  nano createdbtable.sh
+  603  sh createdbtable.sh
+  604  sh createdb.sh 
+  605  use mani1
+  606  mysql -u root -p
+  607  ls
+  608  cat mycron.sh
+  609  cd /etc/spool
+  610  sudo su
+  611  ls
+  612  cat source.txt
+  613  cat target.txt
+  614  truncate -s 0 target.txt
+  615  cat target.txt
+  616  cat mycron.sh
+  617  cat /var/spool/intellipaat
+  618  sudo cat /var/spool/intellipaat
+  619  sudo cd /var/spool/intellipaat
+  620  sudo cd /var/spool/
+  621  ls
+  622  which ifconfig
+  623  ifconfig
+  624  clear
+  625  ifconfig
+  626  sudo ifdown enpos3
+  627  sudo ifdown enp0s3
+  628  ifconfig
+  629  sudo ifup enp0s3
+  630  ifconfig
+  631  clear
+  632  ip
+  633  ifcpnfig
+  634  ifconfig
+  635  ssh intellipaat@192.168.122.1
+  636  pwd
+  637  yum update all
+  638  sudo yum update all
+  639  sudo yum update all -y
+  640  sudo yum update -y
+  641  sudo yum install grafana
+  642  sudo systemctl status grafana-server
+  643  sudo systemctl start grafana-server
+  644  sudo systemctl status grafana-server
+  645  sudo firewall-cmd --list-all | grep ports
+  646  clear
+  647  pwd
+  648  mkdir devops
+  649  ls
+  650  cd mkdir
+  651  cd devops
+  652  git init
+  653  which git
+  654  ipconfig
+  655  ifconfig
+  656  root@192.168.122.1
+  657  sudo root@192.168.122.1
+  658  systemctl firewall status
+  659  systemctl firewalld status
+  660  systemctl status firewalld
+  661  clear
+  662  firewall-cmd --permanent --list-all
+  663  firewall-cmd --permanent --get-services
+  664  firewall-cmd --permanent --add-service=http
+  665  firewall-cmd --reload
+  666  openssl s_client -connect site.name:443 -ssl3
+  667  s_client -connect site.name:443 -ssl3
+  668  ping google.xom
+  669  ping google.com
+  670  sudo yum update -y
+  671  sudo yum install git -y
+  672  git config --list
+  673  ls -a
+  674  which git
+  675  cd usr/bin/git
+  676  cd /usr/bin/git
+  677  cd /usr/bin/git/
+  678  pwd
+  679  cd ..
+  680  pwd
+  681  cd /usr/bin/git
+  682  git git config --global user.name "singlagourve"
+  683  git config --global user.name "singlagourve"
+  684  git config --global user.email "singlagourve@gmail.com"
+  685  git --config
+  686  git config --list
+  687  pwd
+  688  cd devops
+  689  pwd
+  690  ls
+  691  touch 1.txt 2.txt
+  692  ls
+  693  git init
+  694  pwd
+  695  ls -a
+  696  git status
+  697  git add .
+  698  git status
+  699  git commit -m "first commit adding 1.txt and 2.txt"
+  700  git status
+  701  nano 3.txt
+  702  cat 3.txt 
+  703  clear
+  704  git status
+  705  nano 2.txt
+  706  git status
+  707  git remote add origin "https://github.com/singlagourve/devops-course.git"
+  708  git push origin master
+  709  openssl version -f
+  710  cat openssl.cnf
+  711  openssl version -f >3.txt
+  712  cat 3.txt
+  713  openssl version -d
+  714  cd /etc/pki/tls/
+  715  ls
+  716  cat openssl.cnf 
+  717  cat openssl.cnf  > /home/intellipaat/share/cert.txt
+  718  cd ..
+  719  pwd
+  720  cd home/intellipaat/devops
+  721  ls
+  722  ls -a
+  723  git git status
+  724  git status
+  725  git push origin master
+  726  $ update-crypto-policies --show
+  727  DEFAULT
+  728  # update-crypto-policies --set LEGACY
+  729  Setting system policy to LEGACY
+  730  update-crypto-policies --show
+  731  update-crypto-policies --set LEGACY
+  732  sudo update-crypto-policies --set LEGACY
+  733  shotdown -r now
+  734  shutdown -r now
+  735  pwd
+  736  cd devops
+  737  git status
+  738  git add origin master
+  739  git push origin master
+  740  update-crypto-policies --show
+  741  sudo update-crypto-policies --set DEFAULT
+  742  git push origin master
+  743  shotdown -r now
+  744  shutdown -r now
+  745  ping google.com
+  746  history
+  747  curl google.com
+  748  git push origin master
+  749  ls
+  750  cd devops
+  751  git status
+  752  git init
+  753  git status
+  754  git add origin
+  755  exit
+  756  su
+  757  ls
+  758  cd devops
+  759  ls
+  760  git init
+  761  ls
+  762  ls -a
+  763  git status
+  764  git remote add origin "https://github.com/singlagourve/devops-course.git"
+  765  git push origin master
+  766  git remote add ori
+  767  git push
+  768  git push origin
+  769  su git push origin master
+  770  su
+  771  ls
+  772  rmdir devops
+  773  rm -r devops
+  774  ls
+  775  mkdir devops
+  776  cd devops
+  777  ls
+  778  ls -a
+  779  cd..
+  780  cd ..
+  781  ls
+  782  rmdir devops
+  783  rmdir -f devops
+  784  rm -f devops
+  785  rmdir -p devops
+  786  rmdir -r devops
+  787  man rmdir
+  788  man rm
+  789  rm -r devops
+  790  rm -R devops
+  791  rm -f devops
+  792  man rm
+  793  rm -f devops
+  794  rm f devops
+  795  man rm
+  796  rmdir devops
+  797  rm -d devops
+  798  rm -r devops
+  799  ls
+  800  mkdir devops
+  801  cd devops
+  802  git init
+  803  touch 1.txt 2.txt
+  804  ls
+  805  ls -a
+  806  git status
+  807  git add .
+  808  git status
+  809  git remote add origin "https://github.com/singlagourve/devops-course.git"
+  810  git status
+  811  git push origin master
+  812  git commit -m "first commit"
+  813  git push origin master
+  814  sudo su
+  815  ls
+  816  ls -a
+  817  git remote add origin "https://github.com/singlagourve/devops-course.git
+"
+  818  git status
+  819  git add.
+  820  git add .
+  821  git status
+  822  touch 1.txt
+  823  ls
+  824  git status
+  825  touch 3.txt
+  826  git status
+  827  git push -u remote master 
+  828  git push origin master
+  829  git push -u origin master
+  830  cd ..
+  831  pwd
+  832  ssh-keygen -t rsa -b 4096 -C "singlagourve@gmail.com"
+  833  eval "$(ssh-agent -s)"
+  834  clear
+  835  ls
+  836  ls -a
+  837  ssh-add ~/.ssh/id_rsa
+  838  clear
+  839  cat /home/intellipaat/.ssh/id_rsa.pub
+  840  ssh -T git@github.com
+  841  git remote add origin git@github.com:singlagourve/devops-course.git
+  842  git init
+  843  git status
+  844  cd
+  845  ls
+  846  cd devops
+  847  ls
+  848  ls -a
+  849  git status
+  850  git push origin master
+  851  git remote add origin git@github.com:singlagourve/devops-course.git
+  852  git remote -v
+  853  git remote set-url origin git@github.com:singlagourve/devops-course.git
+  854  git commit
+  855  ls
+  856  git pull origin master
+  857  ls
+  858  cd ..
+  859  ls
+  860  rm -f devops
+  861  rmdir -f devops
+  862  cd devops
+  863  ls
+  864  rm *
+  865  ls
+  866  cd ..
+  867  rmdir devops
+  868  sudo rmdir -f devops
+  869  rm -f singla
+  870  rm -f devops
+  871  rmdir -f devops
+  872  rmdir -r devops
+  873  rm -r devops
+  874  pwd
+  875  ls
+  876  git status
+  877  ls -a
+  878  rmdir .git
+  879  rm -d .git
+  880  rmdir -r git
+  881  rmdir -r .git
+  882  rmdir -d .git
+  883  rmdir -r .git
+  884  rm -r .git
+  885  git status
+  886  ls -a
+  887  cd devops
+  888  mkdir -r devops/1.txt 2.txt
+  889  mkdir devops
+  890  cd
+  891  cd devops
+  892  git init
+  893  git config --list
+  894  git remote add origin git@github.com:singlagourve/devops-course.git
+  895  git pull origin master
+  896  ls
+  897  ls -a
+  898  git push origin master
+  899  git pull
+  900  ls
+  901  ls -a
+  902  touch 1.txt
+  903  git status
+  904  git add .
+  905  git status
+  906  git commit -m " first commit"
+  907  git push remote master
+  908  git push origin master
+  909  git status
+  910  ls
+  911  git pull origin master
+  912  ls
+  913  touch 3.txt
+  914  git status
+  915  git add 3.txt
+  916  git status
+  917  git commit -m "second commit"
+  918  git push origin maain
+  919  git push origin main
+  920  git push origin master
+  921  cat 3.txt
+  922  nano 3.txt
+  923  git status
+  924  git commit -m "third file"
+  925  git status
+  926  git push origin master
+  927  cat 3.txt
+  928  git add 3.txt
+  929  git status 3.txt
+  930  git commit -m "3.txt changed"
+  931  git push origin master
+  932  history > allcommands
